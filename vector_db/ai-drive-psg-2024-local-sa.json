@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-drive-psg-2024",
+  "private_key_id": "2e1ab52738427f50dda5277e4091217318c01ba8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCHRadB/NTfMmHZ\nB0kaSwC/ejckAorQzRn32U0sN41T9AqR+UGxzAWDSGUlm4X63bHatLi1a5vPCIV/\nNEQLWP8X115bmpvgtMCy8m38g0CTsv2xfYkmyhcYLne5TdsbuoEWVmJHlK0L7Ync\nu5YfvG0I8IMRAsYrAgS25Z+FEOfDSAxTdW/fcSwglP2rJFbk6MSbqpVK4Ybwd6kF\nKLu+bj1mu6S58MzdkKB83PDQK8asRqsQYNAsfPFYau1tEJAnIOf99cUU5bza2Iod\n1xx32ZPBQ60+ACrOGEkTNyGxJzIivvmRPfyX1aEXNgOLLcoNmg4teGdfURH7KByg\nNOosYoJNAgMBAAECggEACWL69T2ZzpciFRDysKwNtDvDLHDaDcfTCnt+EG3BFSyf\nuHtnD0hiBYx2KwLnbCi1bmtl+dOAGgC0YBxSBcY6L/8A4Yhmp/7C9Gfq2+qGW6QV\nrfBRHmudk07+KHyk51VXdHkFaYQr8eJHfmqsmIKBv8IOG5W+seik8nAX/qrVT5v2\nxrpirjviAGugqgytwhhp2FHW9+qm8vP27ODfCF6K3po/J71GV5NjaPbsHIHwchdU\nVGXk0J/toqJy1xB0lptHl2DOjY8AS4NuBpu8yrpoxHRoGHOvWwUhTNor232z51OT\nmVoAGo1dzi7oV/YJG7u29E1toSA3AG+WU+hkEdAJgQKBgQC+zDWry37BXp5NjcaK\nAET3ZwtfjUXCEip5HArsd0kqxdt7IdbLwqGmxBPeYdUJ3O7MgvHCFQRm0GFe7fNl\noP7lcmldsO75rK07hEo+7ca3v67Bxp56mosI32DyiDPQ439OjTASkz9tISGuZ0VC\n1NE4L24PavUdoPguMMaVL+K0IQKBgQC1f9P/tpUDqzk4lg6lIDARPaV/nDrEAjiX\nRc3l4A83wS5ZB+Sr/8v/80+gNTe94LZ5OO0QPThaWcwwklSiRgqxk/0bBLRTnfG6\nFDmkc4H9mgzBKTjn32LAKBUd70aKE4nid9VQfuJT9fbX1x9kDUyPNnr4W3VfcMPT\nSwtVVNXIrQKBgB+iWBu9x6xj9bdCFHL5DHZAnYAgOjqtLGGcJquCM51l5LgLqkNq\nZ8bwp6KtcdcKzIUYCOF2/p3VWu+UYFCvWtPMHnAsT9MRsD839d9tKQ96No1mUwxc\n50R3VOmhb4Xo0kjB3ACYbWG4po72DGPCSVYZdxQTVcSt1bhC2goOQHZBAoGAcqgb\nC+qSvmuXTVj2TXhFBU81UqUmNpbUmzOcu8BMvMML/XBQFBwXCkzxm1qjKQ9hFrlQ\ngTa7d9BMfs6iKpUmwkGj3kKdjEk14IBQXcQedU+xCQF6knh7ELsBhBSZMjbfnzJm\njmBpp/K1Cms6yGDiYYJgMq7MOgupmbxJn5FlME0CgYEAgpOdzXnogupntutIwSBS\nNc9gXhQExlK6jrmxIy4Zr5jApgm4Plb22D7vuX3CIrwnR6i9treVdW45BuO4xQr8\nEFEOA6a0j9KaXfZotxgojBu8B/T6XBlBMj731PAx5589U6H7QYkMlQXdBRgDiLKC\neeREue6OXdrO1vUsjU9e3O8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "local-sa@ai-drive-psg-2024.iam.gserviceaccount.com",
+  "client_id": "117794101076756254338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/local-sa%40ai-drive-psg-2024.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
