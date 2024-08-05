@@ -1,1 +1,4 @@
 vector_db/ai-drive-psg-2024-local-sa.json
+vector_db_fastapi/ai-drive-psg-2024-local-sa.json
+vector_db_fastapi/venv/
+vector_db_fastapi/__pycache__/
